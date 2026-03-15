@@ -331,10 +331,13 @@ def run_episode(
 
     policy.reset()
 
-    # Reset to specified initial state
+    # Reset first, then apply the selected init state.
+    # Calling reset after set_init_state would overwrite the state.
+    env.reset()
     if init_states[init_state_id] is not None:
-        env.set_init_state(init_states[init_state_id])
-    raw_obs = env.reset()
+        raw_obs = env.set_init_state(init_states[init_state_id])
+    else:
+        raw_obs = env.reset()
 
     # Wait for physics to stabilize
     dummy_action = [0, 0, 0, 0, 0, 0, -1]
