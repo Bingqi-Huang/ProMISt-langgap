@@ -1,0 +1,4 @@
+[submodule "openpi"]
+	url = git@github.com:Bingqi-Huang/ProMISt-openpi.git
+[submodule "langgap"]
+	url = git@github.com:Bingqi-Huang/ProMISt-langgap.git
