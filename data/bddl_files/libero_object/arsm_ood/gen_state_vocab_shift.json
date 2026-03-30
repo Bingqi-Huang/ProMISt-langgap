@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "suite": "libero_object",
+    "perturbation": "vocab_shift",
+    "source_dir": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original",
+    "output_root": "langgap/data/bddl_files/libero_object/arsm_ood",
+    "generated_at": "2026-03-29T03:34:32"
+  },
+  "completed": {
+    "pick_up_the_alphabet_soup_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_alphabet_soup_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_alphabet_soup_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the alphabet soup and place it in the basket",
+      "ood_instruction": "Retrieve the canned soup with letter markings and deposit it in the woven container"
+    },
+    "pick_up_the_bbq_sauce_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_bbq_sauce_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_bbq_sauce_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the bbq sauce and place it in the basket",
+      "ood_instruction": "Retrieve the smoky grilling sauce bottle and deposit it in the woven container"
+    },
+    "pick_up_the_butter_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_butter_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_butter_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the butter and place it in the basket",
+      "ood_instruction": "Retrieve the yellow dairy spread pack and deposit it in the woven container"
+    },
+    "pick_up_the_chocolate_pudding_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_chocolate_pudding_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_chocolate_pudding_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the chocolate pudding and place it in the basket",
+      "ood_instruction": "Retrieve the dark chocolate dessert cup and deposit it in the woven container"
+    },
+    "pick_up_the_cream_cheese_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_cream_cheese_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_cream_cheese_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the cream cheese and place it in the basket",
+      "ood_instruction": "Retrieve the soft white cheese spread tub and deposit it in the woven container"
+    },
+    "pick_up_the_ketchup_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_ketchup_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_ketchup_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the ketchup and place it in the basket",
+      "ood_instruction": "Retrieve the red tomato condiment bottle and deposit it in the woven container"
+    },
+    "pick_up_the_milk_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_milk_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_milk_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the milk and place it in the basket",
+      "ood_instruction": "Retrieve the white dairy carton and deposit it in the woven container"
+    },
+    "pick_up_the_orange_juice_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_orange_juice_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_orange_juice_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the orange juice and place it in the basket",
+      "ood_instruction": "Retrieve the citrus fruit juice carton and deposit it in the woven container"
+    },
+    "pick_up_the_salad_dressing_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_salad_dressing_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_salad_dressing_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the salad dressing and place it in the basket",
+      "ood_instruction": "Retrieve the bottled salad dressing and deposit it in the woven container"
+    },
+    "pick_up_the_tomato_sauce_and_place_it_in_the_basket.bddl": {
+      "source_bddl": "/data/admins/bingqi/Projects/ProMISt/langgap/data/bddl_files/libero_object/original/pick_up_the_tomato_sauce_and_place_it_in_the_basket.bddl",
+      "ood_bddl": "langgap/data/bddl_files/libero_object/arsm_ood/vocab_shift/pick_up_the_tomato_sauce_and_place_it_in_the_basket.bddl",
+      "source_instruction": "Pick the tomato sauce and place it in the basket",
+      "ood_instruction": "Retrieve the red pasta sauce can and deposit it in the woven container"
+    }
+  }
+}
